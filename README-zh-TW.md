@@ -242,10 +242,10 @@
 
 ### 第三步： 設計核心的元件
 
-對每一個核心元件進行深入的分析。舉例來說， 如果你被問到 [設計一個短網址的服務](solutions/system_design/pastebin/README.md) ，可以開始討論以下內容：
+對每一個核心元件進行深入的分析。舉例來說， 如果你被問到 [設計一個短網址的服務](../system_design/pastebin/README.md) ，可以開始討論以下內容：
 
 * 產生並儲存一個完整網址的 Hash
-    * [MD5](solutions/system_design/pastebin/README.md) 和 [Base62](solutions/system_design/pastebin/README.md)
+    * [MD5](../system_design/pastebin/README.md) 和 [Base62](../system_design/pastebin/README.md)
     * Hash 碰撞
     * SQL 或 NoSQL
     * 資料庫的模型
@@ -288,61 +288,61 @@
 
 | 問題                                                                                                |                                                        |
 |-----------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| 設計 Pastebin.com (或 Bit.ly)                                                                       | [解答](solutions/system_design/pastebin/README.md)     |
-| 設計一個像是 Twitter 的 timeline (或 Facebook feed)設計一個 Twitter 搜尋功能 (or Facebook 搜尋功能) | [解答](solutions/system_design/twitter/README.md)      |
-| 設計一個爬蟲系統                                                                                    | [解答](solutions/system_design/web_crawler/README.md)  |
-| 設計 Mint.com 網站                                                                                  | [解答](solutions/system_design/mint/README.md)         |
-| 設計一個社交網站的資料結構                                                                          | [解答](solutions/system_design/social_graph/README.md) |
-| 設計一個搜尋引擎使用的鍵值儲存資料結構                                                              | [解答](solutions/system_design/query_cache/README.md)  |
-| 設計一個根據產品分類的亞馬遜銷售排名                                                                | [解答](solutions/system_design/sales_rank/README.md)   |
-| 在 AWS 上設計一個百萬用戶等級的系統                                                                 | [解答](solutions/system_design/scaling_aws/README.md)  |
+| 設計 Pastebin.com (或 Bit.ly)                                                                       | [解答](../system_design/pastebin/README.md)     |
+| 設計一個像是 Twitter 的 timeline (或 Facebook feed)設計一個 Twitter 搜尋功能 (or Facebook 搜尋功能) | [解答](../system_design/twitter/README.md)      |
+| 設計一個爬蟲系統                                                                                    | [解答](../system_design/web_crawler/README.md)  |
+| 設計 Mint.com 網站                                                                                  | [解答](../system_design/mint/README.md)         |
+| 設計一個社交網站的資料結構                                                                          | [解答](../system_design/social_graph/README.md) |
+| 設計一個搜尋引擎使用的鍵值儲存資料結構                                                              | [解答](../system_design/query_cache/README.md)  |
+| 設計一個根據產品分類的亞馬遜銷售排名                                                                | [解答](../system_design/sales_rank/README.md)   |
+| 在 AWS 上設計一個百萬用戶等級的系統                                                                 | [解答](../system_design/scaling_aws/README.md)  |
 | 增加一個系統設計的問題                                                                              | [貢獻](#如何貢獻)                                      |
 
 ### 設計 Pastebin.com (或 Bit.ly)
 
-[閱讀練習與解答](solutions/system_design/pastebin/README.md)
+[閱讀練習與解答](../system_design/pastebin/README.md)
 
 ![Imgur](images/4edXG0T.png)
 
 ### 設計一個像是 Twitter 的 timeline (或 Facebook feed)設計一個 Twitter 搜尋功能 (or Facebook 搜尋功能)
 
-[閱讀練習與解答](solutions/system_design/twitter/README.md)
+[閱讀練習與解答](../system_design/twitter/README.md)
 
 ![Imgur](images/jrUBAF7.png)
 
 ### 設計一個爬蟲系統
 
-[閱讀練習與解答](solutions/system_design/web_crawler/README.md)
+[閱讀練習與解答](../system_design/web_crawler/README.md)
 
 ![Imgur](images/bWxPtQA.png)
 
 ### 設計 Mint.com 網站
 
-[閱讀練習與解答](solutions/system_design/mint/README.md)
+[閱讀練習與解答](../system_design/mint/README.md)
 
 ![Imgur](images/V5q57vU.png)
 
 ### 設計一個社交網站的資料結構
 
-[閱讀練習與解答](solutions/system_design/social_graph/README.md)
+[閱讀練習與解答](../system_design/social_graph/README.md)
 
 ![Imgur](images/cdCv5g7.png)
 
 ### 設計一個搜尋引擎使用的鍵值儲存資料結構
 
-[閱讀練習與解答](solutions/system_design/query_cache/README.md)
+[閱讀練習與解答](../system_design/query_cache/README.md)
 
 ![Imgur](images/4j99mhe.png)
 
 ### 設計一個根據產品分類的亞馬遜銷售排名
 
-[閱讀練習與解答](solutions/system_design/sales_rank/README.md)
+[閱讀練習與解答](../system_design/sales_rank/README.md)
 
 ![Imgur](images/MzExP06.png)
 
 ### 在 AWS 上設計一個百萬用戶等級的系統
 
-[閱讀練習與解答](solutions/system_design/scaling_aws/README.md)
+[閱讀練習與解答](../system_design/scaling_aws/README.md)
 
 ![Imgur](images/jj3A5N8.png)
 

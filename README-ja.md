@@ -242,10 +242,10 @@
 
 ### ステップ 3: 核となるコンポーネントを設計する
 
-それぞれの主要なコンポーネントについての詳細を学ぶ。例えば、[url短縮サービス](solutions/system_design/pastebin/README.md)の設計を問われた際には次のようにするといいでしょう:
+それぞれの主要なコンポーネントについての詳細を学ぶ。例えば、[url短縮サービス](../system_design/pastebin/README.md)の設計を問われた際には次のようにするといいでしょう:
 
 * 元のURLのハッシュ化したものを作り、それを保存する
-    * [MD5](solutions/system_design/pastebin/README.md) と [Base62](solutions/system_design/pastebin/README.md)
+    * [MD5](../system_design/pastebin/README.md) と [Base62](../system_design/pastebin/README.md)
     * ハッシュ衝突
     * SQL もしくは NoSQL
     * データベーススキーマ
@@ -288,61 +288,61 @@
 
 | 問題 | |
 |---|---|
-| Pastebin.com (もしくは Bit.ly) を設計する| [解答](solutions/system_design/pastebin/README.md) |
-| Twitterタイムライン (もしくはFacebookフィード)を設計する<br/>Twitter検索(もしくはFacebook検索)機能を設計する | [解答](solutions/system_design/twitter/README.md) |
-| ウェブクローラーを設計する | [解答](solutions/system_design/web_crawler/README.md) |
-| Mint.comを設計する | [解答](solutions/system_design/mint/README.md) |
-| SNSサービスのデータ構造を設計する | [解答](solutions/system_design/social_graph/README.md) |
-| 検索エンジンのキー/バリュー構造を設計する | [解答](solutions/system_design/query_cache/README.md) |
-| Amazonのカテゴリ毎の売り上げランキングを設計する | [解答](solutions/system_design/sales_rank/README.md) |
-| AWS上で100万人規模のユーザーを捌くサービスを設計する | [解答](solutions/system_design/scaling_aws/README.md) |
+| Pastebin.com (もしくは Bit.ly) を設計する| [解答](../system_design/pastebin/README.md) |
+| Twitterタイムライン (もしくはFacebookフィード)を設計する<br/>Twitter検索(もしくはFacebook検索)機能を設計する | [解答](../system_design/twitter/README.md) |
+| ウェブクローラーを設計する | [解答](../system_design/web_crawler/README.md) |
+| Mint.comを設計する | [解答](../system_design/mint/README.md) |
+| SNSサービスのデータ構造を設計する | [解答](../system_design/social_graph/README.md) |
+| 検索エンジンのキー/バリュー構造を設計する | [解答](../system_design/query_cache/README.md) |
+| Amazonのカテゴリ毎の売り上げランキングを設計する | [解答](../system_design/sales_rank/README.md) |
+| AWS上で100万人規模のユーザーを捌くサービスを設計する | [解答](../system_design/scaling_aws/README.md) |
 | システム設計問題を追加する | [Contribute](#contributing) |
 
 ### Pastebin.com (もしくは Bit.ly) を設計する
 
-[問題と解答を見る](solutions/system_design/pastebin/README.md)
+[問題と解答を見る](../system_design/pastebin/README.md)
 
 ![Imgur](images/4edXG0T.png)
 
 ### Twitterタイムライン&検索 (もしくはFacebookフィード&検索)を設計する
 
-[問題と解答を見る](solutions/system_design/twitter/README.md)
+[問題と解答を見る](../system_design/twitter/README.md)
 
 ![Imgur](images/jrUBAF7.png)
 
 ### ウェブクローラーの設計
 
-[問題と解答を見る](solutions/system_design/web_crawler/README.md)
+[問題と解答を見る](../system_design/web_crawler/README.md)
 
 ![Imgur](images/bWxPtQA.png)
 
 ### Mint.comの設計
 
-[問題と解答を見る](solutions/system_design/mint/README.md)
+[問題と解答を見る](../system_design/mint/README.md)
 
 ![Imgur](images/V5q57vU.png)
 
 ### SNSサービスのデータ構造を設計する
 
-[問題と解答を見る](solutions/system_design/social_graph/README.md)
+[問題と解答を見る](../system_design/social_graph/README.md)
 
 ![Imgur](images/cdCv5g7.png)
 
 ### 検索エンジンのキー/バリュー構造を設計する
 
-[問題と解答を見る](solutions/system_design/query_cache/README.md)
+[問題と解答を見る](../system_design/query_cache/README.md)
 
 ![Imgur](images/4j99mhe.png)
 
 ### Amazonのカテゴリ毎の売り上げランキングを設計する
 
-[問題と解答を見る](solutions/system_design/sales_rank/README.md)
+[問題と解答を見る](../system_design/sales_rank/README.md)
 
 ![Imgur](images/MzExP06.png)
 
 ### AWS上で100万人規模のユーザーを捌くサービスを設計する
 
-[問題と解答を見る](solutions/system_design/scaling_aws/README.md)
+[問題と解答を見る](../system_design/scaling_aws/README.md)
 
 ![Imgur](images/jj3A5N8.png)
 
